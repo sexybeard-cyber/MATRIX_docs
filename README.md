@@ -23,3 +23,4 @@
 
 + MATRIX 节点部署手册请查看：[gman抵押节点部署手册 (windows).pdf](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/gman%E6%8A%B5%E6%8A%BC%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C%20(windows).pdf)、[gman抵押节点部署手册(linux&Mac)](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/gman%E6%8A%B5%E6%8A%BC%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C(linux%26Mac).pdf)
 
+contributed by lin
